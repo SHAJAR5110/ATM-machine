@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "united-atm-machine",
+  "version": "1.0.0",
+  "description": "Simple atm machine using Typescript, Node js and inquirer.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shajar Abbas",
+  "license": "MIT"
+}
